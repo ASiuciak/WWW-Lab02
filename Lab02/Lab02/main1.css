@@ -1,0 +1,44 @@
+h1 {
+    color: royalblue;
+    text-align: center;
+  }
+h2 {
+  text-align: center;
+}
+img {
+  display: inline;
+  width: 300 px;
+  height: 220 px;
+}
+.column {
+  float: left;
+  width: 48%;
+  padding: 5px;
+  margin-left: 20px;
+}
+.pic {
+  float: center;
+}
+.links {
+  width: 100 px;
+  background-color: blueviolet;
+  position: absolute;
+}
+.boeing {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.list {
+  width: 15%;
+  font-size: 20px;
+  margin: auto;
+  border: 2mm rigde red;
+}
+a:link {
+  color: black;
+}
+a:visited {
+  color: black;
+}
